@@ -6,6 +6,17 @@
   margin-top: 10rem;
 }
 
+.fe-gg .champimg {
+  width: 10rem;
+  height: 20rem;
+}
+
+.fe-gg .champimg img {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+
 .fe-gg .logo {
   margin: 2rem 0rem;
   filter: drop-shadow(2px 2px 2px rgba(0, 0, 0, 0.5));
